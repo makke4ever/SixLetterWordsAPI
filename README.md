@@ -1,1 +1,1 @@
-# SixLetterWordsAPI
+# WordCombinationsAPI
